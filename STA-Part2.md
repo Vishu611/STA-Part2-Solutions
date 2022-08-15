@@ -1,4 +1,10 @@
 <!-- Actual text starts here -->
+*Team:
+1. Viswatej Seela
+2. Krish Engineer
+3. Harshit Jain
+4. Anudeep Akkana
+
 ## GIT LINK TO RMD FILE
 
 rmd file here -
