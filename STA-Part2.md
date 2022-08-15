@@ -1,5 +1,5 @@
 <!-- Actual text starts here -->
-* Team :
+* Team :*
 1. Viswatej Seela
 2. Krish Engineer
 3. Harshit Jain
